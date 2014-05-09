@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<person>
+		<firstName>nikita</firstName>
+		<lastName>meshkov</lastName>
+		<password>777</password>
+		<email>nik_nak@bk.ru</email>
+	</person>
+	<person>
+		<firstName>bro</firstName>
+		<lastName>brov</lastName>
+		<password>111</password>
+		<email>bro_123@gmail.com</email>
+	</person>
+</users>
